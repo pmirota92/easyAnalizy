@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on easyAnalizy</title>
+    <link>https://pmirota92.github.io/easyAnalizy/post/</link>
+    <description>Recent content in Articles on easyAnalizy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Nov 2024 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://pmirota92.github.io/easyAnalizy/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#001: Append Excel Sheets with Different Layouts Effortlessly</title>
+      <link>https://pmirota92.github.io/easyAnalizy/post/chapter-1/</link>
+      <pubDate>Sat, 02 Nov 2024 11:25:05 -0400</pubDate>
+      <guid>https://pmirota92.github.io/easyAnalizy/post/chapter-1/</guid>
+      <description>&lt;p&gt;In this post, I’ll guide you through a simple and efficient way to append Excel sheets with different layouts directly in Power BI. For best practice, I recommend downloading the &amp;ldquo;RawData&amp;rdquo; file provided and following along with each step. By doing this, you’ll be able to apply the instructions effectively and see the results firsthand.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;files/RawData.xlsx&#34;&gt;RawData.xlsx&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The structure of the file is as shown in the screenshots below. The first few columns in each sheet are the same, while the remaining columns differ – these represent the names of candidates in an election.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#002: 🚫 Don’t Do This in Excel! </title>
+      <link>https://pmirota92.github.io/easyAnalizy/post/chapter-2/</link>
+      <pubDate>Sat, 02 Nov 2024 11:25:05 -0400</pubDate>
+      <guid>https://pmirota92.github.io/easyAnalizy/post/chapter-2/</guid>
+      <description>&lt;p&gt;So you’ve discovered Power Query—welcome!&#xA;🌟 It’s like the Swiss Army knife for data: importing, cleaning, and transforming at the click of a button.&lt;/p&gt;&#xA;&lt;p&gt;And at first, it’s amazing! But with that first taste of power, new users often get swept up, connecting to folders, stacking transformations like a pro… until chaos ensues. 🙈🙈🙈&lt;/p&gt;&#xA;&lt;p&gt;If you’re not careful, you’ll end up with a messy web of queries that’s impossible to pass on, let alone move to a new file location.&#xA;&lt;figure&gt;&lt;img src=&#34;https://pmirota92.github.io/easyAnalizy/images/002_01.png&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;The structure of the queries connected the the folder&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#003: 🚫 Don’t Do This in Excel! </title>
+      <link>https://pmirota92.github.io/easyAnalizy/post/chapter-3/</link>
+      <pubDate>Sat, 02 Nov 2024 11:25:05 -0400</pubDate>
+      <guid>https://pmirota92.github.io/easyAnalizy/post/chapter-3/</guid>
+      <description>&lt;p&gt;So you’ve discovered Power Query—welcome!&#xA;🌟 It’s like the Swiss Army knife for data: importing, cleaning, and transforming at the click of a button.&lt;/p&gt;&#xA;&lt;p&gt;And at first, it’s amazing! But with that first taste of power, new users often get swept up, connecting to folders, stacking transformations like a pro… until chaos ensues. 🙈🙈🙈&lt;/p&gt;&#xA;&lt;p&gt;If you’re not careful, you’ll end up with a messy web of queries that’s impossible to pass on, let alone move to a new file location.&#xA;&lt;figure&gt;&lt;img src=&#34;https://pmirota92.github.io/easyAnalizy/images/002_01.png&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;The structure of the queries connected the the folder&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
