@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paulina Mirota on easyAnalizy</title>
+    <link>https://pmirota92.github.io/easyAnalizy/</link>
+    <description>Recent content in Paulina Mirota on easyAnalizy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2025 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://pmirota92.github.io/easyAnalizy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#003: Property Price Prediction Using XGBoost &amp; Model Optimization (Polish Cities)! </title>
+      <link>https://pmirota92.github.io/easyAnalizy/post/chapter-3/</link>
+      <pubDate>Wed, 01 Jan 2025 11:25:05 -0400</pubDate>
+      <guid>https://pmirota92.github.io/easyAnalizy/post/chapter-3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Business Objective:&lt;/strong&gt;&#xA;Developed a regression model to predict Apartment Price in order to support setting the optimal listing price or determining the appropriate insurance value.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;data--feature-engineering&#34;&gt;&lt;strong&gt;Data &amp;amp; Feature Engineering:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Processed &lt;em&gt;122 873&lt;/em&gt; records with &lt;em&gt;9&lt;/em&gt; features.&#xA;Key features:&#xA;squareMeters, rooms, buildYear, collegeDistance, centreDistance,&#xA;floorCount, poiCount, hasElevator, city.&lt;/p&gt;&#xA;&lt;p&gt;Implemented:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;rigorous EDA (distribution analysis, target leakage checks, feature–target relationships),&lt;/li&gt;&#xA;&lt;li&gt;outlier treatment using &lt;em&gt;box plots&lt;/em&gt;,&lt;/li&gt;&#xA;&lt;li&gt;removed outliers using the IQR method to prevent extreme values from distorting model performance.,&lt;/li&gt;&#xA;&lt;li&gt;feature transformations: &lt;em&gt;new variables (&amp;lsquo;age_of_building&amp;rsquo;) are created to enhance model performance, and categorical features are encoded&lt;/em&gt;,&lt;/li&gt;&#xA;&lt;li&gt;multicollinearity diagnostics (correlation thresholds).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;modeling-strategy&#34;&gt;&lt;strong&gt;Modeling Strategy:&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Established a comparative pipeline evaluating Linear Regression vs. XGBoost.&#xA;Used GridSearchCV with cross-validation (&lt;em&gt;k = 5&lt;/em&gt;) to systematically optimize key hyperparameters.&#xA;Assessment focused on generalization performance, stability across folds, and error variance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#002: Are All Horoscopes Positive? (NLP &#43; Sentiment &#43; Similarity Analysis)! </title>
+      <link>https://pmirota92.github.io/easyAnalizy/post/chapter-2/</link>
+      <pubDate>Thu, 07 Nov 2024 11:25:05 -0400</pubDate>
+      <guid>https://pmirota92.github.io/easyAnalizy/post/chapter-2/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;&lt;strong&gt;Project Overview&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This project investigates whether daily horoscopes are genuinely positive, whether different zodiac signs receive varying emotional tones, and how often horoscope texts are reused. I collected 3 years of daily horoscopes across all 12 zodiac signs and applied modern NLP techniques to analyze sentiment, repetition, and thematic structure.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Core techniques:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Web scraping (3-year dataset, 12 signs)&lt;/li&gt;&#xA;&lt;li&gt;Sentiment analysis (VADER + Hugging Face transformer)&lt;/li&gt;&#xA;&lt;li&gt;Semantic similarity (MiniLM embeddings + cosine similarity)&lt;/li&gt;&#xA;&lt;li&gt;Statistical testing (chi-square, post-hoc, bootstrapping)&lt;/li&gt;&#xA;&lt;li&gt;NLP EDA (word clouds, timelines, bar plots)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-motivation--research-questions&#34;&gt;&lt;strong&gt;1. Motivation &amp;amp; Research Questions&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I explored a long-standing question:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#001: Oil Diagnostics – End-to-End Machine Learning Pipeline for Oil Condition Classification</title>
+      <link>https://pmirota92.github.io/easyAnalizy/post/chapter-1/</link>
+      <pubDate>Sat, 02 Nov 2024 11:25:05 -0400</pubDate>
+      <guid>https://pmirota92.github.io/easyAnalizy/post/chapter-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt;&#xA;Built a complete analytical and predictive system for classifying industrial oil samples into operational states (A, B, C, X) based on particle-count distributions, chemical composition, and ISO cleanliness metrics. Delivered an end-to-end solution including preprocessing, modeling, explainability, class imbalance handling, and a fully interactive Streamlit application.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;data-understanding--domain-driven-preprocessing&#34;&gt;&lt;strong&gt;Data Understanding &amp;amp; Domain-Driven Preprocessing&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Processed a laboratory dataset containing &lt;strong&gt;40+ contamination, chemistry, and ISO cleanliness measurements&lt;/strong&gt;. Addressed several real-world industrial data challenges:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://pmirota92.github.io/easyAnalizy/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pmirota92.github.io/easyAnalizy/about/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://pmirota92.github.io/easyAnalizy/images/126408238.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;🌟 Meet the Power BI &amp;amp; Automation Specialist who brews more than just coffee! With expertise in process automation and advanced analytics, I transform data into actionable insights and develop visualizations that empower decision-making. Proficient in Power BI, Power Query, and data transformation, with a strong focus on delivering user-centered reports and dashboards.&lt;/p&gt;&#xA;&lt;p&gt;When I’m not optimizing processes in the world of automation, you can find me diving into the pages of captivating nonfiction—preferably with a steaming cup of coffee in hand, complete with a latte art masterpiece. ☕✨&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://pmirota92.github.io/easyAnalizy/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pmirota92.github.io/easyAnalizy/contact/</guid>
+      <description>&lt;p&gt;Follow me on these social media platforms.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Platform&lt;/th&gt;&#xA;          &lt;th&gt;URL&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Instagram:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.instagram.com/easy_analizy&#34;&gt;https://www.instagram.com/easy_analizy&lt;/a&gt;_&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Website:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://digital-cv-pmirota1992.streamlit.app/&#34;&gt;https://digital-cv-pmirota1992.streamlit.app/&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;LinkedIn:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/paulina-mirota-02871918b?utm_source=share&amp;amp;utm_campaign=share_via&amp;amp;utm_content=profile&amp;amp;utm_medium=ios_app&#34;&gt;https://www.linkedin.com/in/paulina-mirota-02871918b?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=ios_app&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;GitHub:&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://github.com/pmirota92&#34;&gt;https://github.com/pmirota92&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
